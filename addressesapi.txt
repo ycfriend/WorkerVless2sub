@@ -1,4 +1,18 @@
-150.230.206.130:443#JP
-151.145.67.90:8443#JP
-139.162.41.109:443#SG
-18.139.143.168:443#SG
+150.230.63.93:443#JP Osaka AS31898 Oracle Corporation
+152.67.125.161:443#AU Sydney AS31898 Oracle Public Cloud
+138.2.122.191:443#KR Chuncheon AS31898 Oracle Corporation
+141.147.185.63:443#JP Tokyo AS31898 Oracle Corporation
+192.9.250.241:443#US San Jose AS31898 Oracle Corporation
+47.57.181.17:443#US Los Angeles AS45102 Alibaba Cloud - US
+141.148.187.195:443#US Phoenix AS31898 Oracle Corporation
+64.110.104.30:443#JP Osaka AS31898 Oracle Corporation
+47.251.95.178:443#US Los Angeles AS45102 Alibaba Cloud - US
+168.138.212.80:443#JP Tokyo AS31898 Oracle Public Cloud
+152.70.232.72:443#KR Seoul AS31898 Oracle Corporation
+144.24.73.232:443#KR Chuncheon AS31898 Oracle Corp UK Ltd
+152.67.99.162:443#AU Sydney AS31898 Oracle Public Cloud
+155.248.181.189:443#JP Tokyo AS31898 Oracle Public Cloud
+168.138.46.67:443#JP Osaka AS31898 Oracle Public Cloud
+158.180.231.216:443#IT Siziano AS31898 Oracle Corporation
+150.136.87.192:443#US Ashburn AS31898 Oracle Public Cloud
+168.138.165.174:443#SG Kampong Loyang AS31898 Oracle Public Cloud
